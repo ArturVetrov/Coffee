@@ -8,7 +8,7 @@ header {
 
 .site-menu {
    text-align: center;
-    padding: 20px;
+    padding: 10px;
     border-bottom: 2px solid black;
 }
 a {
@@ -24,4 +24,8 @@ a:hover {
 }
 .center {
     text-align: center;
+}
+p {
+    margin-left: 70px;
+    margin-right: 70px;
 }
