@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(204, 156, 116);
+    
+}
+header {
+    background-color: rgb(161, 104, 58);
+}
+
+.site-menu {
+   text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+a {
+    color: black;
+    margin: 0px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
+.img {
+    padding: 20px;
+}
+.center {
+    text-align: center;
+}
